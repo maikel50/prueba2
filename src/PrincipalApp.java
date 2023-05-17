@@ -24,6 +24,7 @@ public class PrincipalApp {
 			System.out.println("1.Te pones a cantar la vaca lechera con él");
 			System.out.println("2.Na, de locos, te quedas quieto a ver si pasa de ti");
 			System.out.println("3.Vuelves a sacar la navaja mariposa humilde");
+			opcion2 = sc.nextInt();
 			switch (opcion2) {
 			case 1:
 				System.out.println("Decides cantar con él al ritmo de la pandereta que lleva el cabron, enhorabuena eres feliz y humilde");
